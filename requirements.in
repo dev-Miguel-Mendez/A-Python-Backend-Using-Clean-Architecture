@@ -1,0 +1,13 @@
+
+pip-tools
+uvicorn
+fastapi
+pydantic
+dotenv
+rich==13.7.1
+psycopg2-binary
+asyncpg
+bcrypt
+PyJWT
+sqlalchemy
+pydantic[email]
